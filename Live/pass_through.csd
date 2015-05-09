@@ -1,5 +1,7 @@
 <CsoundSynthesizer>
 ;Options given through csoundqt
+;Recommend setting hardware buffer as low as possible
+;	Tested with -B16 with i7/onboard sound
 
 <CsOptions>
 </CsOptions>
